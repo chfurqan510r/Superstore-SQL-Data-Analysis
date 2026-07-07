@@ -111,6 +111,7 @@ Skills
 
 - SQL
 - MySQL
-- Power BI
-- Microsoft Excel
-- Python
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Window Functions
+- Common Table Expressions (CTEs)
